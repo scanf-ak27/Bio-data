@@ -1,0 +1,54 @@
+body 
+{
+    background-image:url("scene.jpg");
+    background-repeat:round;
+    background-attachment: fixed;
+}
+h1
+{
+    font-style:oblique;
+    font-size:5cm;
+    text-align: center; 
+    text-decoration: aquamarine;
+    color :rgb(0, 0, 0)
+}
+h2{
+    font-size:3cm;
+    text-align : center;
+    color :rgb(46, 1, 1)
+}
+img{
+    margin-right: 5cm;
+    margin-left: 14.5cm;
+    border-radius:100%;
+}
+button{
+    align-self: center;
+    background-image:linear-gradient(rgba(255, 255, 255, 0),rgb(108, 235, 255), rgb(11, 16, 99)) ;
+    font-size: 0.9cm;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    margin-left: 16.88cm;
+    font-family:Luminari, fantasy;
+}    
+.button2{
+    margin-left: 17.15cm;
+}
+.button3{
+    margin-left: 17.80cm;
+}
+.button4{
+    margin-left: 17.94cm;
+}
+
+h5{
+    font-style: bold;
+    font-style: italic;
+    font-size:1cm;
+    margin-left: 15cm;
+    margin-right: 15cm;
+    text-align: center;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background-image: repeating-linear-gradient(rgb(242, 255, 57),rgb(255, 106, 0), rgba(255, 0, 0, 0));
+}
